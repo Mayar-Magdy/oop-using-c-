@@ -21,7 +21,7 @@ This repository serves as a comprehensive guide and documentation of my journey 
 15. [File Operations](#file-operations)
     - [ReadFile](#readfile)
     - [WriteFile](#writefile)
-16. [Projects](#projects)
+16. [Final Project](#Final-Project)
 17. [Conclusion](#conclusion)
 
 ---
@@ -122,9 +122,10 @@ This section focuses on writing data to files in C++, exploring different method
 
 ---
 
-### Projects
+### Final Project
 
 Throughout this learning journey, I have applied the aforementioned concepts in various projects, reinforcing my understanding and practical skills in OOP with C++.
+
 https://github.com/Mayar-Magdy/ems-oop-project
 
 ---
